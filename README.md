@@ -1,6 +1,10 @@
 test
 ====
-![embedded image](./differential_usage.png)
+![motivation image](./motivation.png)
+
+![changepoint image](./changepoints.png)
+
+![differential image](./differential_usage.png)
 
 usage<sub>brain</sub> = 1 - ( cov<sub>downstream,brain</sub> / cov<sub>upstream,brain</sub> ) &cong; 0.68
 
