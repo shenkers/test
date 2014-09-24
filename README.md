@@ -1,6 +1,6 @@
 test
 ====
-![embedded image](https://github.com/shenkers/test/blob/addfig/differential_usage.png)
+![embedded image](./differential_usage.png)
 
 usage<sub>brain</sub> = 1 - ( cov<sub>downstream,brain</sub> / cov<sub>upstream,brain</sub> ) &cong; 0.68
 
